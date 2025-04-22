@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\K\u00FCt\u00FCphane Otomastonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F021E51-B7FA-4A6B-959D-7477CC651044}|Proje\\KutuphaneTakipOtomasyonu.csproj|C:\\Users\\PC\\Desktop\\K\u00FCt\u00FCphane Otomastonu\\proje\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F021E51-B7FA-4A6B-959D-7477CC651044}|Proje\\KutuphaneTakipOtomasyonu.csproj|solutionrelative:proje\\adminpaneli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F021E51-B7FA-4A6B-959D-7477CC651044}|Proje\\KutuphaneTakipOtomasyonu.csproj|c:\\users\\pc\\desktop\\k\u00FCt\u00FCphane otomastonu\\proje\\kullanicilistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F021E51-B7FA-4A6B-959D-7477CC651044}|Proje\\KutuphaneTakipOtomasyonu.csproj|solutionrelative:proje\\kullanicilistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F021E51-B7FA-4A6B-959D-7477CC651044}|Proje\\KutuphaneTakipOtomasyonu.csproj|C:\\Users\\PC\\Desktop\\K\u00FCt\u00FCphane Otomastonu\\proje\\kullanicilistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2F021E51-B7FA-4A6B-959D-7477CC651044}|Proje\\KutuphaneTakipOtomasyonu.csproj|solutionrelative:proje\\kullanicilistesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KullaniciListesi.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\K\u00FCt\u00FCphane Otomastonu\\Proje\\KullaniciListesi.cs",
+              "RelativeDocumentMoniker": "Proje\\KullaniciListesi.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\K\u00FCt\u00FCphane Otomastonu\\Proje\\KullaniciListesi.cs",
+              "RelativeToolTip": "Proje\\KullaniciListesi.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAwwK4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:14:44.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KullaniciListesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\K\u00FCt\u00FCphane Otomastonu\\Proje\\KullaniciListesi.cs",
+              "RelativeDocumentMoniker": "Proje\\KullaniciListesi.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\10E 725 HamzaGulesci (K\u00FCt\u00FCphane Otomasyonu)\\Proje\\KullaniciListesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\10E 725 HamzaGulesci (K\u00FCt\u00FCphane Otomasyonu)\\Proje\\KullaniciListesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:14:42.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminPaneli.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\K\u00FCt\u00FCphane Otomastonu\\Proje\\AdminPaneli.cs",
+              "RelativeDocumentMoniker": "Proje\\AdminPaneli.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\K\u00FCt\u00FCphane Otomastonu\\Proje\\AdminPaneli.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Proje\\AdminPaneli.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T13:14:36.57Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+C:\Users\PC\source\repos\Proje\Proje\bin\x64\Debug\Proje.exe.config
+C:\Users\PC\source\repos\Proje\Proje\bin\x64\Debug\Proje.exe
+C:\Users\PC\source\repos\Proje\Proje\bin\x64\Debug\Proje.pdb
+C:\Users\PC\source\repos\Proje\Proje\obj\x64\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Proje\Proje\obj\x64\Debug\Proje.Form1.resources
+C:\Users\PC\source\repos\Proje\Proje\obj\x64\Debug\Proje.Form2.resources
+C:\Users\PC\source\repos\Proje\Proje\obj\x64\Debug\Proje.Form3.resources
+C:\Users\PC\source\repos\Proje\Proje\obj\x64\Debug\Proje.Form4.resources
+C:\Users\PC\source\repos\Proje\Proje\obj\x64\Debug\Proje.Properties.Resources.resources
+C:\Users\PC\source\repos\Proje\Proje\obj\x64\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Proje\Proje\obj\x64\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Proje\Proje\obj\x64\Debug\Proje.exe
+C:\Users\PC\source\repos\Proje\Proje\obj\x64\Debug\Proje.pdb
+C:\Users\PC\source\repos\Proje\Proje\obj\x64\Debug\Proje.KitapListeleme.resources
+C:\Users\PC\source\repos\AaNtp\Proje\bin\x64\Debug\Proje.exe.config
+C:\Users\PC\source\repos\AaNtp\Proje\bin\x64\Debug\Proje.exe
+C:\Users\PC\source\repos\AaNtp\Proje\bin\x64\Debug\Proje.pdb
+C:\Users\PC\source\repos\AaNtp\Proje\obj\x64\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\AaNtp\Proje\obj\x64\Debug\Proje.Form1.resources
+C:\Users\PC\source\repos\AaNtp\Proje\obj\x64\Debug\Proje.Form2.resources
+C:\Users\PC\source\repos\AaNtp\Proje\obj\x64\Debug\Proje.Form3.resources
+C:\Users\PC\source\repos\AaNtp\Proje\obj\x64\Debug\Proje.Form4.resources
+C:\Users\PC\source\repos\AaNtp\Proje\obj\x64\Debug\Proje.KitapListeleme.resources
+C:\Users\PC\source\repos\AaNtp\Proje\obj\x64\Debug\Proje.Properties.Resources.resources
+C:\Users\PC\source\repos\AaNtp\Proje\obj\x64\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\AaNtp\Proje\obj\x64\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\AaNtp\Proje\obj\x64\Debug\Proje.exe
+C:\Users\PC\source\repos\AaNtp\Proje\obj\x64\Debug\Proje.pdb
+C:\Users\PC\source\repos\AaNtp\Proje\obj\x64\Debug\Proje.Form5.resources
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\bin\x64\Debug\Proje.exe.config
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\bin\x64\Debug\Proje.exe
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\bin\x64\Debug\Proje.pdb
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\obj\x64\Debug\Proje.csproj.AssemblyReference.cache
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\obj\x64\Debug\Proje.Form1.resources
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\obj\x64\Debug\Proje.Form2.resources
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\obj\x64\Debug\Proje.Form3.resources
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\obj\x64\Debug\Proje.Form4.resources
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\obj\x64\Debug\Proje.Form5.resources
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapListeleme.resources
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\obj\x64\Debug\Proje.Properties.Resources.resources
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\obj\x64\Debug\Proje.csproj.GenerateResource.cache
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\obj\x64\Debug\Proje.csproj.CoreCompileInputs.cache
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\obj\x64\Debug\Proje.exe
+D:\Kodlama\Visual Studio Projeler\HamzaGulesci725\Proje\obj\x64\Debug\Proje.pdb
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\bin\x64\Debug\Proje.exe.config
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\bin\x64\Debug\Proje.exe
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\bin\x64\Debug\Proje.pdb
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapArama.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.LoginEkrani.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.HesapOlusturma.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapListeleme.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.Properties.Resources.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.exe
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.pdb
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapGuncelleme.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.AdminPaneli.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapKaydetme.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KullaniciListesi.resources

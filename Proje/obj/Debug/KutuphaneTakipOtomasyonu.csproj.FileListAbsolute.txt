@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\bin\Debug\Proje.exe.config
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\bin\Debug\Proje.exe
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\bin\Debug\Proje.pdb
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\KutuphaneTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\Proje.KitapArama.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\Proje.KitapGuncelleme.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\Proje.LoginEkrani.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\Proje.HesapOlusturma.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\Proje.AdminPaneli.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\Proje.KitapKaydetme.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\Proje.KullaniciListesi.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\Proje.KitapListeleme.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\Proje.Properties.Resources.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\KutuphaneTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\KutuphaneTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\Proje.exe
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\Debug\Proje.pdb

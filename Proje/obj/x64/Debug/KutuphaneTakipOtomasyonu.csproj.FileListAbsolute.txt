@@ -1,0 +1,67 @@
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\bin\x64\Debug\Proje.exe.config
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\bin\x64\Debug\Proje.exe
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\bin\x64\Debug\Proje.pdb
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\KutuphaneTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapArama.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapGuncelleme.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.LoginEkrani.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.HesapOlusturma.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.AdminPaneli.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapKaydetme.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KullaniciListesi.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapListeleme.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.Properties.Resources.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\KutuphaneTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\KutuphaneTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.exe
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.pdb
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapSilme.resources
+C:\Users\PC\source\repos\HamzaGulesci725\Proje\obj\x64\Debug\Proje.HesapAyarlari.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\bin\x64\Debug\Proje.exe.config
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\bin\x64\Debug\Proje.exe
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\bin\x64\Debug\Proje.pdb
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\KutuphaneTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapArama.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapGuncelleme.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapSilme.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.LoginEkrani.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.HesapOlusturma.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.AdminPaneli.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapKaydetme.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KullaniciListesi.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.KitapListeleme.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.Properties.Resources.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\KutuphaneTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\KutuphaneTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.exe
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.pdb
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Kutuphan.E2B9AE51.Up2Date
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.EmanetAl.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.EmanetVerilenKitaplar.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.EmanetVer.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.AnaSayfa.resources
+C:\Users\PC\Desktop\HamzaGulesci725\Proje\obj\x64\Debug\Proje.Kullanicilar.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\bin\x64\Debug\Proje.exe.config
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\bin\x64\Debug\Proje.exe
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\bin\x64\Debug\Proje.pdb
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\KutuphaneTakipOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.AnaSayfa.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.EmanetAl.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.EmanetVer.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.EmanetVerilenKitaplar.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.KitapArama.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.KitapGuncelleme.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.KitapSilme.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.Kullanicilar.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.LoginEkrani.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.HesapOlusturma.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.AdminPaneli.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.KitapKaydetme.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.KullaniciListesi.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.KitapListeleme.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.Properties.Resources.resources
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\KutuphaneTakipOtomasyonu.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\KutuphaneTakipOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Kutuphan.E2B9AE51.Up2Date
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.exe
+C:\Users\PC\Desktop\10E 725 HamzaGulesci (Kütüphane Otomasyonu)\Proje\obj\x64\Debug\Proje.pdb

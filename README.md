@@ -40,12 +40,6 @@ Personel, kayıt olma işlemini sistem üzerinden gerçekleştirir ve ardından 
 
 ---
 
-## Kurulum
-
-1. Git deposunu klonlayın veya dosyaları indirin.
-2. `KutuphaneOtomasyonu.rar` projesini Visual Studio'da açın.
-3. Projeyi derleyin ve çalıştırın.
-
 ### Gereksinimler
 - **.NET Framework 4.7.2 ve üzeri**
 - **Microsoft Access**

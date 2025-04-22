@@ -68,12 +68,6 @@ Kullanıcı adı: Hamza, Şifre: admin
 
 ---
 
-## Lisans
-
-Bu yazılım, **MIT Lisansı** ile lisanslanmıştır.
-
----
-
 ## Yazar
 
 Hamza GÜLEŞCİ

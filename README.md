@@ -1,14 +1,16 @@
 
 # Library Automation 🇬🇧
 
+
 ## Table of Contents
 - [About the Project](#about-the-project)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Admin Panel](#admin-panel)
+- [Requirements](#requirements)
+- [User Interface](#user-interface)
+- [Author](#author)
 
-# About the Project
+
+## About the Project
 
 This software is a library automation system developed to track and manage all operations in a library. The program is managed by staff, and users appear as if they are already registered online.
 
@@ -71,16 +73,19 @@ Overdue and non-overdue books are listed separately.
 ---
 
 
+
 # Kütüphane Otomasyonu 🇹🇷
+
 
 ## İçindekiler
 - [Proje Hakkında](#proje-hakkında)
 - [Özellikler](#özellikler)
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
-- [Admin Paneli](#admin-paneli)
+- [Gereksinimler](#gereksinimler)
+- [Kullanıcı Arayüzü](#kullanıcı-arayüzü)
+- [Yazar](#yazar)
 
-# Proje Hakkında
+
+## Proje Hakkında
 
 Bu yazılım, bir kütüphanedeki tüm işlemleri takip etmek ve yönetmek için geliştirilmiş bir otomasyon sistemidir. Program, personel tarafından yönetilir ve kullanıcılar internet üzerinden hazır bir şekilde kaydolmuş gibi işlem yapar.
 

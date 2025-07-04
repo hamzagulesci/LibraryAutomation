@@ -1,4 +1,3 @@
-
 # Library Automation 🇬🇧
 
 ## Table of Contents
@@ -43,9 +42,11 @@ This software is a library automation system developed to track and manage all o
 
 ---
 
+
 ### Requirements
 - **.NET Framework 4.7.2 or higher**
 - **Microsoft Access**
+- **To run and use the project, [Access Database Engine](https://www.microsoft.com/en-us/download/details.aspx?id=54920) must be installed.**
 
 ---
 
@@ -103,9 +104,11 @@ Bu yazılım, bir kütüphanedeki tüm işlemleri takip etmek ve yönetmek için
 
 ---
 
+
 ### Gereksinimler
 - **.NET Framework 4.7.2 ve üzeri**
 - **Microsoft Access**
+- **Projeyi çalıştırmak ve kullanmak için [Access Database Engine](https://www.microsoft.com/en-us/download/details.aspx?id=54920) kurulmuş olmalıdır.**
 
 ---
 
